@@ -18,7 +18,7 @@ This project entails a comprehensive analysis of Uber ride data from New York Ci
 
 ## Project Structure 📂
 
-- **Data Analysis Scripts:** Contains Jupyter notebooks detailing the data analysis process, including data preprocessing, exploratory data analysis, and visualization techniques.
+- **Data Analysis Script:** Contains Jupyter notebook detailing the data analysis process, including data preprocessing, exploratory data analysis, and visualization techniques.
   
 - **Result Summaries:** Provides concise summaries of key findings and insights derived from the analysis.
   
